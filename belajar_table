@@ -5,17 +5,17 @@
 	<meta charset="utf-8">
 </head>
 <body>
-
- <table border="3">
+ <table border="3" cellpadding="10">
  	<tr>
- 		<td> Baris 1 Kolom 1</td>
- 		<td> Baris 1 Kolom 2</td>
+ 		<td> Nama</td>
+ 		<td> NIM</td>
+ 		<td> Mata Kuliah</td>
  	</tr>
  	<tr>
- 		<td> Baris 2 Kolom 1</td>
- 		<td> Baris 2 Kolom 2</td>
+ 		<td> Tania Maulidia Salsabila</td>
+ 		<td> 202201042</td>
+ 		<td> Pemrograman Web</td>
  	</tr>
  </table>
-
 </body>
 </html>
